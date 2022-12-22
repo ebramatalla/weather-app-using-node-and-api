@@ -2,7 +2,7 @@
 
 Simple Web App That Take location and Back Weather in this Location 
 
-Tech : NodeJs , Express  , Api weatherstack , Api mapbox
+Tech : NodeJs , Express  , Api weatherstack , Api mapbox , Html , Css ,JS
 
 SetUp Project : npm install // use Postman to test Api
 
